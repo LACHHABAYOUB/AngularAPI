@@ -65,23 +65,4 @@ ngOnInit () {
 };
 ```
 
-## :cool: Features
 
-* API web link could be changed to get different and more complex data.
-
-## :clipboard: Status & To-Do List
-
-* Status: Working.
-* To-Do: Nothing.
-
-## :clap: Inspiration
-
-* This was a Gary Simon [here is a link to his designcourse.com](https://designcourse.com/) but it is no longer available on-line
-
-## :file_folder: License
-
-* This project is licensed under the terms of the MIT license.
-
-## :envelope: Contact
-
-* Repo created by [ABateman](https://github.com/AndrewJBateman), email: gomezbateman@yahoo.com
